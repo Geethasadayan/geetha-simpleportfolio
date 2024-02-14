@@ -13,7 +13,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - CSS
 
 ## how to view
-You can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
+You can access my portfolio website by visiting[ https://geethasadayan.github.io/geetha-simpleportfolio/ ]feel free to explore the content and get in touch!
 
 ## Getting Started
 To view the website locally, simply clone this repository and open the index.html file in your web browser.
